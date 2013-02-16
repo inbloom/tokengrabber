@@ -12,3 +12,9 @@ purposes:
 Once that API token is in hand, you can use the token to interact with
 the APIs without code using curl or tools like the Advanced API
 Client available in the Chrome Web Store (http://goo.gl/mN1Xk).
+
+
+
+inBloom Developer's Section ----> https://inbloom.org/for-developers
+
+inBloom Dev Docs ----> https://inbloom.org/developer-documentation
