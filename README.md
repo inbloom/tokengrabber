@@ -1,7 +1,7 @@
-#inBloom API Token Grabber
+#API Token Grabber
 
 ##DESCRIPTION
-The inBloom API Token Grabber is a developer utility designed for two
+The API Token Grabber is a developer utility designed for two
 purposes:
 
   a.) Demostrate the OAuth2 workflow works in a few lines of PHP code.
